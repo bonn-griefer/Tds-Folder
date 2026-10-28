@@ -209,4 +209,4 @@ TDS Folder is available as a full free version with all features and updates inc
 Discover the ease of managing your temporary files today! Download TDS Folder for free and enhance your productivity.
 
 ---
-**Last updated:** 2026-10-28 07:38:13 UTC
+**Last updated:** 2026-10-28 14:36:36 UTC
